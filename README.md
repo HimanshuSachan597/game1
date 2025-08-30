@@ -1,2 +1,2 @@
 # first game
-this a demo for git &amp; gitub.
+this a demo for git &amp; github  class.
